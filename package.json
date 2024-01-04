@@ -19,5 +19,8 @@
   "homepage": "https://github.com/ryaks001/ryakstheme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ryaksv3-data": "^2.2.3"
   }
 }
