@@ -69,7 +69,7 @@ function RyaksTrigger() {
 		wtmark.innerHTML = "";
 	}
 	else {
-		wtmark.innerHTML = "By Ryaks Da Catto";
+		wtmark.innerHTML = "r y";
 	}
 
 	Greeting.classList.add ("Greeting")
