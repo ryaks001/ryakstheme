@@ -1,5 +1,5 @@
 {
-  "name": "Ryaksv3-data",
+  "name": "ryaksv3-data",
   "version": "2.2.2",
   "description": "Data files for RyaksV3 theme",
   "main": "index.js",
@@ -9,14 +9,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ryaks69/Ryaks-V3.git"
+    "url": "git+https://github.com/ryaks001/ryakstheme"
   },
-  "author": "Ryaks Da Catto",
+  "author": "r y",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Ryaks69/Ryaks-V3/issues"
+    "url": "https://github.com/ryaks001/ryakstheme"
   },
-  "homepage": "https://github.com/Ryaks69/Ryaks-V3",
+  "homepage": "https://github.com/ryaks001/ryakstheme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
