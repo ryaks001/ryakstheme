@@ -1,6 +1,6 @@
 /**
  * @author Teisseire117
- * @Modifierss Ryaks Da Catto
+ * @Modifierss Ryaks
  * @version 1.4.1
  * @Nyan Meow~~~
  */
