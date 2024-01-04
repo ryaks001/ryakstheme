@@ -1,9 +1,6 @@
 /**
  * @name RyaksV3
- * @author Ryaks Da Catto
- * @description Ryaks theme 3rd Generation for Pengu Loader
- * @link https://github.com/Ryaks69
- * @Nyan Meow~~~
+ * @author Ryaks001
  */
 import "./data/ImportUpdate.js"
 import "./data/Update-message.js"
