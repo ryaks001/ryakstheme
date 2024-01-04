@@ -1,8 +1,8 @@
 /**
- * @name ElainaV3
- * @author Elaina Da Catto
- * @description Elaina theme 3rd Generation for Pengu Loader
- * @link https://github.com/Elaina69
+ * @name RyaksV3
+ * @author Ryaks Da Catto
+ * @description Ryaks theme 3rd Generation for Pengu Loader
+ * @link https://github.com/Ryaks69
  * @Nyan Meow~~~
  */
 import "./data/ImportUpdate.js"

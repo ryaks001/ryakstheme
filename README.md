@@ -1,4 +1,4 @@
 # Attention !!
-This is Npm data package for ElainaV3 theme
+This is Npm data package for RyaksV3 theme
 
-If you want to download theme,open [this](https://github.com/Elaina69/Elaina-V3)
+If you want to download theme,open [this](https://github.com/Ryaks69/Ryaks-V3)
