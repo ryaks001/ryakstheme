@@ -1,0 +1,23 @@
+{
+  "name": "elainav3-data",
+  "version": "2.2.2",
+  "description": "Data files for ElainaV3 theme",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "data"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elaina69/Elaina-V3.git"
+  },
+  "author": "Elaina Da Catto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Elaina69/Elaina-V3/issues"
+  },
+  "homepage": "https://github.com/Elaina69/Elaina-V3",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
