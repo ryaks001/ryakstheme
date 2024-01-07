@@ -1,6 +1,6 @@
 {
   "name": "ryaksv3-data",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "Data files for RyaksV3 theme",
   "main": "index.js",
   "files": [
