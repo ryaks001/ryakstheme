@@ -139,7 +139,7 @@ const lang = {
     },
 
     "VN": {
-        //___Translated by @Ryaks69___//
+        //___Translated by @Ryaks___//
         "home"            : "Trang chủ",
         "dodge"           : "Hủy",
         "exit"            : "Thoát",
