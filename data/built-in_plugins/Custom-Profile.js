@@ -5,7 +5,7 @@ if (DataStore.get("Custom-profile-hover")) {
     let tierOptions = ["IRON","BRONZE","SILVER","GOLD","PLATINUM",
                     "DIAMOND","EMERALD","MASTER","GRANDMASTER","CHALLENGER"
     ]
-    let divisionOptions = ["I", "II", "III", "IV"];
+    let divisionOptions = ["\u200B","I", "II", "III", "IV"];
 
     window.setInterval(async ()=>{
         try {

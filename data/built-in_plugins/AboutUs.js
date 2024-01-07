@@ -94,8 +94,8 @@ const injectSettings = (panel) => {
             UI.Row("Developer",[
                 UI.Row("dev-avatar",[
                     UI.Row("dev-div",[
-                        UI.Image("About-Us/RyaksDaCatto.png", "dev_ava"),
-                        UI.Label("Ryaks Da Catto", "first_line_p"),
+                        UI.Image("About-Us/Ryaks.jpg", "dev_ava"),
+                        UI.Label("Ryaks", "first_line_p"),
                         UI.Label("Main Developer")
                     ]),
                     UI.Row("dev-div",[
@@ -134,12 +134,12 @@ const injectSettings = (panel) => {
             */
             document.createElement("br"),
             UI.Row("Donation",[
-                UI.Label("Thanks for using Ryaks-V3 :3","first_line"),
-                UI.Label("If you love RyaksV3, you can support me by sharing this theme to your friend"),
-                UI.Label("or donating me"),
+                UI.Label("Obrigado por usar meu tema xD","first_line"),
+                UI.Label("sei lá é só pra não ter marca d'agua"),
+                UI.Label("fodase"),
                 UI.Row("Donation-row",[
-                    UI.ImageAndLink("ko-fi.webp","https://ko-fi.com/Ryaksdacatto"),
-                    UI.ImageAndLink("momo.svg", "https://me.momo.vn/Ryaksdacatto"),
+                    UI.ImageAndLink("ko-fi.webp","https://www.youtube.com/watch?v=JwxDSuYZgCY"),
+                    UI.ImageAndLink("momo.svg", "https://www.youtube.com/watch?v=CwKz7j24LPg"),
                 ])
             ])
         ])

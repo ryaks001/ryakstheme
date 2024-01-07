@@ -8,6 +8,7 @@ const lang = {
         "ko-KR": "KR",
         "zh-TW": "TW",
         "zh-CN": "CN",
+        "pt-BR": "BR", 
     },
 
     "EN": {
@@ -139,7 +140,7 @@ const lang = {
     },
 
     "VN": {
-        //___Translated by @Ryaks___//
+        //___Translated by @Elaina___//
         "home"            : "Trang chủ",
         "dodge"           : "Hủy",
         "exit"            : "Thoát",
@@ -1167,6 +1168,66 @@ const lang = {
         "Honor-self-1"    : "You cannot honoring yourself",
         "Honor-self-2"    : "Seriously? You really want to honor yourself ?",
     },
+    
+    "BR": {
+        "home"             : "Início",
+        "dodge"            : "Sair do Saguão",
+        "exit"             : "Sair",
+        "auto_accept"      : "Aceitar automaticamente",
+        "l.open_settings"  : "Configurações",
+        "l.open_devtools"  : "Abrir DevTools",
+        "l.reload_client"  : "Recarregar Cliente",
+        "l.open_plugins"   : "Abrir Pasta de Plugins",
+        "l.theme_releases" : "Lançamentos de Temas",
+        "l.close"          : "Fechar",
+        "l.open_assets"    : "Abrir Pasta de Ativos",
+        "l.open_configs"   : "Abrir Pasta de Configurações",
+        "l.download"       : "Baixar",
+        "Ranked Queue"               : "Fila Ranqueada",
+        "Ranked Tier"                : "Divisão Ranqueada",
+        "Ranked Division"            : "Divisão Ranqueada",
+        "Ranked Solo 5vs5"           : "Solo Ranqueado 5vs5",
+        "Ranked Flex Summoner's Rift": "Flex Ranqueado Summoner's Rift",
+        "Ranked Flex TT"             : "Flex Ranqueado TT",
+        "Ranked TFT"                 : "TFT Ranqueado",
+        "Ranked TFT TURBO"           : "TFT Ranqueado TURBO",
+        "Ranked TFT DOUBLE UP"       : "TFT Ranqueado DOUBLE UP",
+        "Iron"                       : "Ferro",
+        "Bronze"                     : "Bronze",
+        "Silver"                     : "Prata",
+        "Gold"                       : "Ouro",
+        "Platinum"                   : "Platina",
+        "Diamond"                    : "Diamante",
+        "Emerald"                    : "Esmeralda",
+        "Master"                     : "Mestre",
+        "Grand-Master"               : "Grão-Mestre",
+        "Challenger"                 : "Desafiante",
+        "shards"          : "fragmentos",
+        "worth"           : "vale",
+        "open"            : "Abrir",
+        "open-chest-prom" : "Você realmente quer abrir tudo",
+        "close"           : "Fechar",
+        "materials"       : "Materiais",
+        "open-chest"      : "Abrir baús",
+        "BE"              : "Essência Azul",
+        "Champ-shards"    : "Fragmentos de Campeão",
+        "disenchant"      : "Desencantar",
+        "duplicates"      : "duplicatas",
+        "dis-dup-prom"    : "Você realmente quer desencantar todos os fragmentos duplicados?",
+        "already-owned"   : "já possui",
+        "dis-owned-prom"  : "Você realmente quer desencantar todos os fragmentos já possuídos?",
+        "all"             : "todos",
+        "dis-all-prom"    : "Você realmente quer desencantar todos os fragmentos?",
+        "upgrade"         : "Melhorar",
+        "up-all-prom"     : "Você realmente quer melhorar todos os fragmentos de campeão?",
+        "note"            : "Nota",
+        "note-1"          : "Lembre-se de recarregar o cliente para que as alterações tenham efeito",
+        "reload-client"   : "Recarregar Cliente",
+        "theme-settings"  : "Configurações do Tema",
+        "wallpaper-volume": "Volume do Papel de Parede",
+        "music-volume"    : "Volume da Música",
+    }
+    
 }
 
 export default lang
